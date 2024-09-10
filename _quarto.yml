@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "SoG PGR Conference 2024"
+  site-url: https://paddysmith99.github.io/SoG_PGR-Conference-2024-Website/
+  navbar:
+    background: success
+    logo: "UoL Logo.jpg"
+    search: false
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Participation"
+        menu:
+          - text: "Presentation " 
+            href: Presentation.qmd
+          - text: "Poster"
+            href: Poster.qmd
+          - text: "Awards"
+            href: Awards.qmd 
+      - text: "Programme"
+        menu:
+          - text: "Conference Programme" 
+            href: about.qmd
+          - text: "Keynote Speakers & Workshop"
+            href: keynote.qmd
+          - text: "Presenters"
+            href: presenters.qmd
+          - text: "Social"
+            href: Social.qmd
+      - text: "Organisation"
+        href: Organisation.qmd
+      - text: "Venue"
+        href: Venue.qmd
+    tools:
+    - icon: twitter
+      href: https://x.com/SoGLeeds?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor 
+  page-footer: 
+    background: light
+    left: "Created by Paddy Smith"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
