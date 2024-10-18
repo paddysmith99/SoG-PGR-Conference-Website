@@ -2,94 +2,59 @@
 title: "Programme"
 ---
 
-+-------------+------------------------+-------------------------+
-| WHEN        | WHAT                   | **WHERE**               |
-+=============+========================+=========================+
-| 9:15-9:30   | Welcome                | Roger Stevens           |
-+-------------+------------------------+-------------------------+
-| 9:30-9:50   | Keynote speaker        | Roger Stevens           |
-+-------------+------------------------+-------------------------+
-| 10:00-11:00 | Session 1: XXXX        | Garstang Seminar Room 1 |
-|             |                        |                         |
-|             | Chair: XXXX            |                         |
-|             |                        |                         |
-|             | *Talk 1*               |                         |
-|             |                        |                         |
-|             | *Talk 2*               |                         |
-|             |                        |                         |
-|             | *Talk 3*               |                         |
-|             |                        |                         |
-|             | *Talk 4*               |                         |
-+-------------+------------------------+-------------------------+
-| 10:00-11:00 | Session 2: XXXX        | Garstang Seminar Room 2 |
-|             |                        |                         |
-|             | Chair: XXXX            |                         |
-|             |                        |                         |
-|             | *Talk 1*               |                         |
-|             |                        |                         |
-|             | *Talk 2*               |                         |
-|             |                        |                         |
-|             | *Talk 3*               |                         |
-|             |                        |                         |
-|             | *Talk 4*               |                         |
-+-------------+------------------------+-------------------------+
-| 11:00-11:20 | BREAK                  |                         |
-+-------------+------------------------+-------------------------+
-| 11:20-12:20 | Session 3: XXXX        | Garstang Seminar Room 1 |
-|             |                        |                         |
-|             | Chair: XXXX            |                         |
-|             |                        |                         |
-|             | *Talk 1*               |                         |
-|             |                        |                         |
-|             | *Talk 2*               |                         |
-|             |                        |                         |
-|             | *Talk 3*               |                         |
-|             |                        |                         |
-|             | *Talk 4*               |                         |
-+-------------+------------------------+-------------------------+
-| 11:20-12:20 | Session 4: XXXX        | Garstang Seminar Room 2 |
-|             |                        |                         |
-|             | Chair: XXXX            |                         |
-|             |                        |                         |
-|             | *Talk 1*               |                         |
-|             |                        |                         |
-|             | *Talk 2*               |                         |
-|             |                        |                         |
-|             | *Talk 3*               |                         |
-|             |                        |                         |
-|             | *Talk 4*               |                         |
-+-------------+------------------------+-------------------------+
-| 12:20-13:30 | Lunch & Poster Session | SoG Foyer               |
-+-------------+------------------------+-------------------------+
-| 13:30-14:00 | Keynote Speaker XXXX   | Garstang Seminar Room 1 |
-+-------------+------------------------+-------------------------+
-| 14:00-15:00 | Session 5: XXXX        | Garstang Seminar Room 1 |
-|             |                        |                         |
-|             | Chair: XXX             |                         |
-|             |                        |                         |
-|             | *Talk 1*               |                         |
-|             |                        |                         |
-|             | *Talk 2*               |                         |
-|             |                        |                         |
-|             | *Talk 3*               |                         |
-|             |                        |                         |
-|             | *Talk 4*               |                         |
-+-------------+------------------------+-------------------------+
-| 14:00-15:00 | Session 6: XXXX        | Garstang Seminar Room 2 |
-|             |                        |                         |
-|             | Chair: XXXX            |                         |
-|             |                        |                         |
-|             | *Talk 1*               |                         |
-|             |                        |                         |
-|             | *Talk 2*               |                         |
-|             |                        |                         |
-|             | *Talk 3*               |                         |
-|             |                        |                         |
-|             | *Talk 4*               |                         |
-+-------------+------------------------+-------------------------+
-| 15:00-15:20 | BREAK                  |                         |
-+-------------+------------------------+-------------------------+
-| 15:20-16:00 | Workshop               | Garstang Seminar Room 2 |
-+-------------+------------------------+-------------------------+
-| 16:00-16:20 | Closing Remarks        | Garstang Seminar Room 1 |
-+-------------+------------------------+-------------------------+
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------+
+| WHEN        | WHAT                                                                                                                                                                                                                               | **WHERE**               |
++=============+====================================================================================================================================================================================================================================+=========================+
+| 9:00-9:15   | Registration                                                                                                                                                                                                                       | SoG Foyer               |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------+
+| 9:15-9:25   | Opening Remarks - *Clare Wolds*                                                                                                                                                                                                    | Roger Stevens           |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------+
+| 9:25-9:30   | Opportunities for PGRs - *Outreach Team and Pint of Science*                                                                                                                                                                       | Roger Stevens           |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------+
+| 9:30-11:00  | [Session 1: Case Studies, Chair:Paddy Smith]{.underline}                                                                                                                                                                           | Garstang Seminar Room 1 |
+|             |                                                                                                                                                                                                                                    |                         |
+|             | -   *Uneven Entrepreneurial Governance: Imagining Urban Regeneration in State-Owned Industrial Communities of Chinese Small Industrial City* - [Yue Che](presenters.qmd#sec-yue-che-sjcc)                                          |                         |
+|             | -   *'Abnormal justice' for non-nationals - [Lauren Cape-Davenhill](presenters.qmd#sec-lauren-cape-davenhill-sjcc)*                                                                                                                |                         |
+|             | -   *Modelling Climate Futures and Adaptation Options for Arctic Communities - [Sanola Sandiford](presenters.qmd#sec-sanola-sandiford-egc)*                                                                                        |                         |
+|             | -   *Refugee Educational Opportunities in Indonesia - [Arwanto](presenters.qmd#sec-arwanto-sjcc)*                                                                                                                                  |                         |
+|             | -   *Co-creating local curriculum on environmental education and indigenous knowledge systems: a case study of place-based education in Chiang Mai's Schools - [Jinnawat Lertpradit](presenters.qmd#sec-jinnawat-lertpradit-sjcc)* |                         |
+|             | -   *State-led mega urbanization project in inner Shanghai, China - [Youhua Chen](presenters.qmd#sec-youhua-chen-sjcc)*                                                                                                            |                         |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------+
+| 11:00-11:15 | Coffee and Tea Break                                                                                                                                                                                                               | SoG Foyer               |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------+
+| 11:15-12:15 | [Session 2: Rivers and Pollution, Chair: Connie Harpur]{.underline}                                                                                                                                                                | Garstang Seminar Room 2 |
+|             |                                                                                                                                                                                                                                    |                         |
+|             | -   *Transport Mechanisms of Microfibers and Their Effects on Soil-Plant Systems - [Zhangling Chen](presenters.qmd#sec-zhangling-chen-rbpm)*                                                                                       |                         |
+|             | -   *Microplastic-induced genotoxicity in Daphnia pulex - [Tom Nash](presenters.qmd#sec-tom-nash-rbpm)*                                                                                                                            |                         |
+|             | -   *Effects of polystyrene microplastics on freshwater organisms - [Di Wu](presenters.qmd#sec-di-wu-rbpm)*                                                                                                                        |                         |
+|             | -   *Quantifying sediment loss from riverbanks attributable to the presence of invasive Impatiens glandulifera - [Beany Townsend](presenters.qmd#sec-beany-townsend-rbpm)*                                                         |                         |
+|             | -   *Quantifying Methane Fluxes and Environmental Influences in UK Freshwater Ecosystems: A Spatio-Temporal Study- [T. Kulangana](presenters.qmd#sec-t.-kulangana-rbpm)*                                                           |                         |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------+
+| 12:30-13:30 | Lunch                                                                                                                                                                                                                              | SoG Foyer               |
+|             |                                                                                                                                                                                                                                    |                         |
+|             | Poster Session                                                                                                                                                                                                                     |                         |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------+
+| 13:30-15:00 | [Session 3: Triple A - Art, Agriculture, and Agent Based Models, Chair: Sanola Sandiford]{.underline}                                                                                                                              | Garstang Seminar Room 1 |
+|             |                                                                                                                                                                                                                                    |                         |
+|             | -   *Embedding public art: a long term approach to serving post-industrial communities- [Katie Lee](presenters.qmd#sec-katie-lee-sjcc)*                                                                                            |                         |
+|             | -   *The Production of Racially Mixed Identity in the British Music Industry - [Rafa Mendes-Browne](presenters.qmd#sec-rafa-mendes-browne-sjcc)*                                                                                   |                         |
+|             | -   *Feminist Participatory (Creative) Action Research on Climate Change - [Andi Pratiwi](presenters.qmd#sec-andi-pratiwi-sjcc)*                                                                                                   |                         |
+|             | -   *Pecking Away at Pollution: The Environmental Challenge of Veterinary Medicines in Poultry Litter! [- Beth Adams](presenters.qmd#sec-beth-adams-rbpm)*                                                                         |                         |
+|             | -   *Simulating Social Network Impacts on Meat-Eating Patterns: An Agent-Based Approach - [Xitong Dai](presenters.qmd#sec-xitong-dai-isds)*                                                                                        |                         |
+|             | -   *Case Study on Calibration Methods for a High-Dimensional Global Trade Agent-Based Model - [Kejian Li](presenters.qmd#sec-kejian-li-isds)*                                                                                     |                         |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------+
+| 15:00-15:15 | Coffee and Tea Break                                                                                                                                                                                                               | SoG Foyer               |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------+
+| 15:15-16:15 | [Session 4: Earth Observation of Dry and Wet, Chair: Hannah Barnett]{.underline}                                                                                                                                                   | Garstang Seminar Room 2 |
+|             |                                                                                                                                                                                                                                    |                         |
+|             | -   *Spatio-temporal trends and processes in desertification in Africa and Europe - [Jisung Kim](presenters.qmd#sec-jisung-kim-egc)*                                                                                               |                         |
+|             | -   *The reflectance behaviour of European soils with increasing soil moisture content - [Denise Hick](presenters.qmd#sec-denise-hick-egc)*                                                                                        |                         |
+|             | -   *Ice Marginal Lakes Enhance Glacier Velocities across Greenland - [Connie Harpur](presenters.qmd#sec-connie-harpur-rbpm)*                                                                                                      |                         |
+|             | -   *Using ICESat-2 to estimate the Depth of Supraglacial Ponds - [Jamie Izzard](presenters.qmd#sec-jamie-izzard-rbpm)*                                                                                                            |                         |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------+
+| 16:15-16:45 | Career Workshop - Steve Carter                                                                                                                                                                                                     | SoG Foyer               |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------+
+| 16:45-17:00 | Prizes and Closing Remarks                                                                                                                                                                                                         | Garstang Seminar Room 1 |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------+
+| 17:00       | Social                                                                                                                                                                                                                             | Old Bar                 |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------+

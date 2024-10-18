@@ -24,9 +24,7 @@ website:
         menu:
           - text: "Conference Programme" 
             href: about.qmd
-          - text: "Keynote Speakers & Workshop"
-            href: keynote.qmd
-          - text: "Presenters"
+          - text: "Abstracts"
             href: presenters.qmd
           - text: "Social"
             href: Social.qmd
